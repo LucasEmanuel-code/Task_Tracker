@@ -1,1 +1,2 @@
-https://github.com/LucasEmanuel-code/Task_Tracker.git
+https://github.com/LucasEmanuel-code/Task_Tracker
+
